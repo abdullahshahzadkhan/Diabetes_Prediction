@@ -1,4 +1,4 @@
-# Diabetes_Prediction using Support Vector Classifier (SVC)
+# Diabetes Prediction using Support Vector Classifier (SVC)
 This project implements a machine learning model to predict diabetes based on health data. The process includes:
 
 * Data Loading and Processing: Cleaned and preprocessed the dataset.
