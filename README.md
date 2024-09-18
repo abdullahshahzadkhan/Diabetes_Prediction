@@ -7,4 +7,5 @@ This project implements a machine learning model to predict diabetes based on he
 * Support Vector Classifier (SVC): Achieved better performance.
 * Logistic Regression: Used as a baseline model.
 * Evaluation: Calculated and compared accuracy scores on both training and test datasets to evaluate model performance.
-![Diabetes Prediction](Predictive System.png)
+
+![Diabetes Prediction](./images/Predictive System.png)
